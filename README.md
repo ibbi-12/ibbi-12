@@ -31,29 +31,14 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ibbi-12/datamedic">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=datamedic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="DataMedic" />
-</a>
-<a href="https://github.com/ibbi-12/Regulus">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Regulus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Regulus" />
-</a>
-
-<a href="https://github.com/ibbi-12/Devil_Advocate">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Devil_Advocate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Devil_Advocate" />
-</a>
-<a href="https://github.com/ibbi-12/roast-my-startup">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=roast-my-startup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="RoastMyStartup" />
-</a>
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 DataMedic
+<a href="https://github.com/ibbi-12/datamedic">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=datamedic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="DataMedic" />
+</a>
+
 **Self-healing agentic data analyst.** Upload a CSV, ask in plain English → the agent writes Python, executes it, and **self-corrects on error (up to 4 retries)**.
 
 - **Race Mode** — two AI coders attack the problem with different strategies; a judge agent picks the winner
@@ -67,7 +52,10 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Regulus
+<a href="https://github.com/ibbi-12/Regulus">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Regulus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Regulus" />
+</a>
+
 **Multi-agent compliance intelligence for banking & financial services.** A crew of specialised agents that read regulation, reason over it, and escalate when unsure.
 
 - **Multi-agent collaboration** — specialised agents split and hand off the work
@@ -82,16 +70,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### 😈 Devil_Advocate
+<a href="https://github.com/ibbi-12/Devil_Advocate">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Devil_Advocate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Devil_Advocate" />
+</a>
+
 **Adversarial RAG engine.** Upload your facts and it argues *against* you — retrieving counter-evidence and stress-testing every claim you make.
+
+- **Retrieval-grounded rebuttals** — every counter-argument cites a chunk from your own documents
+- **Claim decomposition** — splits your position into atomic claims, then attacks each one
 
 `Python` `LangChain` `ChromaDB` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔥 RoastMyStartup
+<a href="https://github.com/ibbi-12/roast-my-startup">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=roast-my-startup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="RoastMyStartup" />
+</a>
+
 **Multi-agent startup teardown.** VC, CTO, customer, and competitor agents dismantle your pitch in real time — with live web research backing the roast.
+
+- **Four adversarial personas** — each agent attacks the pitch from its own incentive
+- **Live web grounding** — Tavily pulls real competitor and market data mid-debate
 
 `LangGraph` `Llama 3.3 70B` `Tavily` `FastAPI`
 
