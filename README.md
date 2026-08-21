@@ -36,7 +36,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/ibbi-12/datamedic">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=datamedic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="DataMedic" />
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ibbi-12&repo=datamedic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="DataMedic" />
 </a>
 
 **Self-healing agentic data analyst.** Upload a CSV, ask in plain English → the agent writes Python, executes it, and **self-corrects on error (up to 4 retries)**.
@@ -53,7 +53,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/ibbi-12/Regulus">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Regulus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Regulus" />
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ibbi-12&repo=Regulus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Regulus" />
 </a>
 
 **Multi-agent compliance intelligence for banking & financial services.** A crew of specialised agents that read regulation, reason over it, and escalate when unsure.
@@ -71,7 +71,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/ibbi-12/Devil_Advocate">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=Devil_Advocate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Devil_Advocate" />
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ibbi-12&repo=Devil_Advocate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="Devil_Advocate" />
 </a>
 
 **Adversarial RAG engine.** Upload your facts and it argues *against* you — retrieving counter-evidence and stress-testing every claim you make.
@@ -85,7 +85,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/ibbi-12/roast-my-startup">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibbi-12&repo=roast-my-startup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="RoastMyStartup" />
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ibbi-12&repo=roast-my-startup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="RoastMyStartup" />
 </a>
 
 **Multi-agent startup teardown.** VC, CTO, customer, and competitor agents dismantle your pitch in real time — with live web research backing the roast.
@@ -122,10 +122,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibbi-12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=ibbi-12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=ibbi-12&theme=tokyonight&hide_border=true&background=0D1117&border=0D1117&stroke=1B2A4A&ring=00D9FF&fire=BD93F9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibbi-12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
+<img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ibbi-12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
 
 </div>
 
