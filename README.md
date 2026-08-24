@@ -123,9 +123,7 @@
 <div align="center">
 
 <img height="165" src="https://readme-stats-sigma-lyart.vercel.app/api?username=ibbi-12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=ibbi-12&theme=tokyonight&hide_border=true&background=0D1117&border=0D1117&stroke=1B2A4A&ring=00D9FF&fire=BD93F9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<img height="150" src="https://readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=ibbi-12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=ibbi-12&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
 
 </div>
 
